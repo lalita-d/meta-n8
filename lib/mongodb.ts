@@ -1,4 +1,4 @@
-```typescriptreact file="app/api/auth/register/route.ts"
+\`\`\`typescriptreact file="app/api/auth/register/route.ts"
 [v0-no-op-code-block-prefix]import { NextResponse } from "next/server"
 
 export async function POST() {
